@@ -42,14 +42,11 @@ button{
 	border-radius: 5px;
 	float: left;
 }
-
 #comienza{
-	margin-right: 10px;
-	margin-left: 30%;
+	margin-right: 2%;
 }
 #info{
 	background-color: green;
-	margin-left: 0;
 }
 
 .descripcion{
